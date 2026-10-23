@@ -1,0 +1,11 @@
+{
+  "domain": "powermate_p2",
+  "name": "PowerMate P2 Motorized Shades",
+  "codeowners": ["@alainmic"],
+  "config_flow": true,
+  "documentation": "https://github.com/alainmic/ha-powermate-p2",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/alainmic/ha-powermate-p2/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}

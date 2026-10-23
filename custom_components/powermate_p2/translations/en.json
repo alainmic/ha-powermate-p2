@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "PowerMate P2 Motorized Shades",
+        "description": "Enter your PowerMate P2 (Orvibo HomeMate) account credentials.",
+        "data": {
+          "username": "Email / Username",
+          "password": "Password"
+        }
+      },
+      "reauth_confirm": {
+        "title": "Reauthenticate PowerMate P2",
+        "description": "Please enter the updated password for {username}.",
+        "data": {
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the PowerMate P2 server.",
+      "invalid_auth": "Invalid username or password.",
+      "unknown": "Unexpected error occurred."
+    },
+    "abort": {
+      "already_configured": "This PowerMate P2 account is already configured.",
+      "reauth_successful": "Reauthentication was successful."
+    }
+  }
+}
